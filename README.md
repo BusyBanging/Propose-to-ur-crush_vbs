@@ -1,9 +1,9 @@
 Propose to ur friends/loved ones/crush etc...
 
-HOW TO RUN-
-      --> Download the repository first
-      --> extract it
-      -->run the "loveletter.vbs" file
-      --> (if a windows error comes up  press "open")
-      --> Enjoy :)
+HOW TO RUN- <br>
+      --> Download the repository first <br>
+      --> extract it <br>
+      -->run the "loveletter.vbs" file <br>
+      --> (if a windows error comes up  press "open") <br>
+      --> Enjoy :) <br>
 end lol
